@@ -1,6 +1,6 @@
 Hello there, I’m @finefeinlyy
 - I'm  interested in frontend development and cybersecurity!
-- I’m currently study B.SC. in Statistics program in Information Technology for Business at Chulalongkorn Business School.
+- I’m currently study B.Sc. in Statistics program in Information Technology for Business at Chulalongkorn Business School.
 
 
 <!---
