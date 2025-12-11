@@ -1,5 +1,5 @@
 Hello there, I’m @finefeinlyy
-- I'm  interested in cybersecurity and frontend development !
+- I'm  interested in cybersecurity and vibe engineering !
 - I’m currently study B.Sc. in Statistics program in Information Technology for Business at Chulalongkorn Business School.
 
 
